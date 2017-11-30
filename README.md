@@ -1,3 +1,4 @@
 # BlueR
-BlueR Watson Analytics
-## NoteBooks created in Data Science Experients for Watson Data Platform BreakFast presentations 
+
+### NoteBooks created in Data Science Experients for 
+### IBM Watson Data Platform BreakFast presentations 
