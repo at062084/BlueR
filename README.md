@@ -1,4 +1,4 @@
 # BlueR
 
-### NoteBooks created in Data Science Experients for 
+### NoteBooks created in Data Science Experience for 
 ### IBM Watson Data Platform BreakFast presentations 
